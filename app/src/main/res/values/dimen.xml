@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="title_bar_textsize">22sp</dimen>
+    <dimen name="padding_right">14dp</dimen>
+    <dimen name="top_viewpager_height">200dp</dimen>
+    <dimen name="leftside_information_worldnews">270dp</dimen>
+
+    <dimen name="world_top_linearlayout">250dp</dimen>
+    <dimen name="world_top_linearlayout_padding">2dp</dimen>
+    <dimen name="cardview_margin">5dp</dimen>
+    <dimen name="world_cardview_cornerradius">10dp</dimen>
+    <dimen name="world_top_image_width">125dp</dimen>
+    <dimen name="world_top_image_height">175dp</dimen>
+    <dimen name="world_top_time_textpadding">10dp</dimen>
+</resources>

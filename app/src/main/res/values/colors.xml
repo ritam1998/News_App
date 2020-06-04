@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ffff</color>
+    <color name="colorPrimaryDark">#ffff</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="white">#D3D3D3</color>
+    <color name="loadmore">#00008B</color>
+    <color name="colorPrimaryText">#000000</color>
+
+
+
+    <color name="color_primary">#212121</color>
+    <color name="color_primary_dark">@android:color/black</color>
+    <color name="color_accent">#4285F4</color>
+    <color name="semi_transparent">#66000000</color>
+    <color name="authorName">#808080</color>
+    <color name="read_more">#4169e1</color>
+
+    <color name="transparent_black">#66000000</color>
+
+</resources>

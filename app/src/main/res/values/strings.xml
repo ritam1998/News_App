@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Fast News</string>
+    <string name="app_headline">News</string>
+    <string name="Home">Home</string>
+    <string name="Date">Date</string>
+
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="newsInBrief">The virus that causes COVID-19 is mainly transmitted through droplets generated when an infected person coughs, sneezes, or exhales. These droplets are too heavy to hang in the air, and quickly fall on floors or surfaces.</string>
+    <string name="sports">Sharath Kamal is an Indian athlete who plays professional table tennis. He hails from Tamil Nadu, India. Kamal is the second Indian table tennis player to become 8 times national champion after Kamlesh Mehta. As of October, 2018, he was ranked 31st in the world. He is a recipient of the Arjuna award for the year 2004. He represented India in the 2004 Olympics in Athens and in the 2006 Asian Games at Qatar.</string>
+    <string name="modiSays">Coronavirus lockdown India: Prime Minister Narendra Modi addressed the nation at 10.00 am today, on April 14 and made an announcement that coronavirus lockdown will be extended across India till May 3. Till 20th April, all districts, localities, states will be closely monitored, as to how strictly they are implementing COVID-19 lockdown norms.</string>
+    <string name="microsoftnews">ovid-19 and the subsequent lockdown is making people realise the usefulness of online payments. This has given apps like Paytm and Google Pay a push as people seek to transfer money from their homes or pay for services and goods with contact-less online payment systems. Now, Paytm and Microsoft are talking about a possible collaboration in India, with Microsoft thinking of investing $100 million in the app.</string>
+</resources>

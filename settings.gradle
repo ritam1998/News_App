@@ -1,0 +1,2 @@
+include ':app',':newslibrary'
+rootProject.name='News'

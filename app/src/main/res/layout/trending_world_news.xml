@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/trendingCardView"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/cardview_margin"
+        android:layout_weight="1"
+        android:elevation="12dp"
+        android:innerRadius="0dp"
+        android:shape="ring"
+        android:thicknessRatio="1.9"
+        app:cardCornerRadius="@dimen/world_cardview_cornerradius">
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+
+            <ImageView
+                android:id="@+id/myImageView1"
+                android:layout_width="@dimen/world_top_image_width"
+                android:layout_height="@dimen/world_top_image_height"
+                android:adjustViewBounds="true"
+                android:scaleType="centerCrop"
+                android:src="@drawable/corona" />
+
+            <TextView
+                android:id="@+id/myImageViewText1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignLeft="@id/myImageView1"
+                android:layout_alignTop="@id/myImageView1"
+                android:layout_alignRight="@id/myImageView1"
+                android:layout_alignBottom="@id/myImageView1"
+                android:layout_margin="1dp"
+                android:maxLines="2"
+                android:paddingLeft="@dimen/world_top_time_textpadding"
+                android:paddingTop="100dp"
+                android:text="Corona virus Pandemic"
+                android:textColor="#ffffff"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/time"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignLeft="@id/myImageView1"
+                android:layout_alignTop="@id/myImageView1"
+                android:layout_alignRight="@id/myImageView1"
+                android:layout_alignBottom="@id/myImageView1"
+                android:gravity="bottom"
+                android:paddingBottom="5dp"
+                android:paddingLeft="@dimen/world_top_time_textpadding"
+                android:text="1 hour"
+                android:textColor="#fff" />
+
+        </RelativeLayout>
+    </androidx.cardview.widget.CardView>
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
