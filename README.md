@@ -11,6 +11,6 @@ Using News Api I have created a News Application. Users will be able to read the
  # Here are some snaps of my application
 
 <p float="left">
-   <img src="https://drive.google.com/uc?export=view&id=1nXHs1GmN05101Y7PLrx3VtnfzKvhSYE-" height="360" width="200"/> 
+   <img src="https://drive.google.com/uc?export=view&id=1nXHs1GmN05101Y7PLrx3VtnfzKvhSYE-" height="360" width="200"/><space>
    <img src="https://drive.google.com/uc?export=view&id=1nXHs1GmN05101Y7PLrx3VtnfzKvhSYE-" height="360" width="200"/>       
 </p>
