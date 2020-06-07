@@ -8,4 +8,4 @@ Using News Api I have created a News Application. Users will be able to read the
  
  The application is on progress. There will attach lots of upcoming features .
 
-<img src="https://drive.google.com/uc?export=view&id=1nXHs1GmN05101Y7PLrx3VtnfzKvhSYE-" height="350" width="250"/>
+<img src="https://drive.google.com/uc?export=view&id=1nXHs1GmN05101Y7PLrx3VtnfzKvhSYE-" height="350" width="200"/>
