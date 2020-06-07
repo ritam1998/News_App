@@ -7,3 +7,5 @@ Using News Api I have created a News Application. Users will be able to read the
  There are different reliable sources that you can follow,  e.g Times of India, The Hindu, The wall street journal and many more
  
  The application is on progress. There will attach lots of upcoming features .
+
+<img src="https://drive.google.com/uc?export=view&id=1nbG28o9j3VBoo6SdWy2A2yqPBhyUf8sZ" />
