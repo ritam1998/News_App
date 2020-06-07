@@ -5,3 +5,5 @@ Using News Api I have created a News Application. Users will be able to read the
  You will be able to read news as per your preference. There are different sections for news. E.g sports, tech, business etc
  
  There are different reliable sources that you can follow,  e.g Times of India, The Hindu, The wall street journal and many more
+ 
+ The application is on progress. There will attach lots of upcoming features .
