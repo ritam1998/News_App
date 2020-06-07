@@ -21,3 +21,13 @@ Using News Api I have created a News Application. Users will be able to read the
    &nbsp;   &nbsp;  
    <img src="https://drive.google.com/uc?export=view&id=1nWTZC_QrXx1n6lxibRGmsIY-phsthB-Q" height="360" width="200"/>
 </p>
+
+# Description
+
+I have created a news application using news API.
+
+In this app I have called API using retrofit asynchronously and I have written API call functions in SDK.
+
+I've used mvvm architecture.
+
+I have used live data which is extended from observable class  . If the data set is changed then it's reflect in view.
